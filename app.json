@@ -1,7 +1,7 @@
 {
     "name": "Azam Music Player",
     "description": "A Telegram Music Bot written in Python using Pyrogram and Py-Tgcalls",
-    "repository": "https://github.com/Adarshtiwari1305/MUSICVC",
+    "repository": "https://github.com/Azamtgop/AZAMSHARIF",
     "logo": "https://github.com/Azamtgop/AZAMSHARIF/main/theme/logo.png",
     "stack": "container",
     "keywords": [
